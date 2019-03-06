@@ -12,9 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('proguarda');
+    return view('proguarda-login');
 });
 
 Route::get('/projeto', function () {
-    return view('proguarda');
+    return view('proguarda-projeto');
 });
