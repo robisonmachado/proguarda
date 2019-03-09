@@ -1,0 +1,14 @@
+img{
+    height: 15vmin;
+    width: 15vmin;
+}
+
+.img-cadeado{
+    height: 10vmin;
+    width: 10vmin;
+}
+
+.textos p{
+    font-size: 2vmin;
+    font-weight: bold;
+}

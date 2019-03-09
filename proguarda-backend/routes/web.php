@@ -12,6 +12,10 @@
 */
 
 Route::get('/', function () {
+    return view('proguarda-login2');
+});
+
+Route::get('/login2', function () {
     return view('proguarda-login');
 });
 
